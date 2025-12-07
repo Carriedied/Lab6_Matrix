@@ -1,0 +1,5 @@
+﻿  TwoDimensionalArrays.cpp
+C:\VS_Projects\TwoDimensionalArrays\TwoDimensionalArrays.cpp(257,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\VS_Projects\TwoDimensionalArrays\TwoDimensionalArrays.cpp(336,20): warning C4311: приведение типов: усечение указателя из "unsigned short (__cdecl *)(void) noexcept" в "int"
+C:\VS_Projects\TwoDimensionalArrays\TwoDimensionalArrays.cpp(336,20): warning C4302: приведение типов: усечение из "unsigned short (__cdecl *)(void) noexcept" к "int"
+  TwoDimensionalArrays.vcxproj -> C:\VS_Projects\TwoDimensionalArrays\x64\Debug\TwoDimensionalArrays.exe
